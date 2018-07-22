@@ -1,0 +1,3 @@
+rootProject.name = 'BeautyWellness'
+
+include ':app'
